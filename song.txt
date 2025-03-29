@@ -8,3 +8,5 @@ shield by shield
 
 
 new to check branch and feature
+
+fast forward merge check
